@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "991790421148",
+    "project_id": "bizo-ffeb3",
+    "storage_bucket": "bizo-ffeb3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991790421148:android:3292d43c472113ebeb8959",
+        "android_client_info": {
+          "package_name": "com.dothething.bizo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991790421148-8nfdjdr7t7o0ishhkp47lcd5ek9bbed3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7MtrBPPYJnxpbMv0jYwHYUMvhKSS_UIM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991790421148-8nfdjdr7t7o0ishhkp47lcd5ek9bbed3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

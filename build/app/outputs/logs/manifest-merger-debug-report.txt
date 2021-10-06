@@ -12,6 +12,7 @@ MERGED from [:flutter_plugin_android_lifecycle] /Users/thenewowner/AndroidStudio
 MERGED from [:cloud_firestore] /Users/thenewowner/AndroidStudioProjects/Bizo-App/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-15:12
 MERGED from [:firebase_storage] /Users/thenewowner/AndroidStudioProjects/Bizo-App/build/firebase_storage/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-15:12
 MERGED from [:firebase_core] /Users/thenewowner/AndroidStudioProjects/Bizo-App/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-15:12
+MERGED from [androidx.multidex:multidex:2.0.1] /Users/thenewowner/.gradle/caches/transforms-2/files-2.1/3749f85aa30402a9dec7cbbd9b409b76/multidex-2.0.1/AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.firebase:firebase-analytics-ktx:19.0.2] /Users/thenewowner/.gradle/caches/transforms-2/files-2.1/d8ce1286e21eff0b9d9fd5d922bd2876/jetified-firebase-analytics-ktx-19.0.2/AndroidManifest.xml:2:1-17:12
 MERGED from [com.google.firebase:firebase-common-ktx:20.0.0] /Users/thenewowner/.gradle/caches/transforms-2/files-2.1/e8a6d5678c300ebe32d40f2640508ebc/jetified-firebase-common-ktx-20.0.0/AndroidManifest.xml:2:1-21:12
 MERGED from [com.google.firebase:firebase-analytics:19.0.2] /Users/thenewowner/.gradle/caches/transforms-2/files-2.1/f8251a5601b8b8ba78faa20732a3f6d7/jetified-firebase-analytics-19.0.2/AndroidManifest.xml:2:1-9:12
@@ -211,6 +212,8 @@ MERGED from [:firebase_storage] /Users/thenewowner/AndroidStudioProjects/Bizo-Ap
 MERGED from [:firebase_storage] /Users/thenewowner/AndroidStudioProjects/Bizo-App/build/firebase_storage/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
 MERGED from [:firebase_core] /Users/thenewowner/AndroidStudioProjects/Bizo-App/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
 MERGED from [:firebase_core] /Users/thenewowner/AndroidStudioProjects/Bizo-App/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [androidx.multidex:multidex:2.0.1] /Users/thenewowner/.gradle/caches/transforms-2/files-2.1/3749f85aa30402a9dec7cbbd9b409b76/multidex-2.0.1/AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.1] /Users/thenewowner/.gradle/caches/transforms-2/files-2.1/3749f85aa30402a9dec7cbbd9b409b76/multidex-2.0.1/AndroidManifest.xml:20:5-43
 MERGED from [com.google.firebase:firebase-analytics-ktx:19.0.2] /Users/thenewowner/.gradle/caches/transforms-2/files-2.1/d8ce1286e21eff0b9d9fd5d922bd2876/jetified-firebase-analytics-ktx-19.0.2/AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-analytics-ktx:19.0.2] /Users/thenewowner/.gradle/caches/transforms-2/files-2.1/d8ce1286e21eff0b9d9fd5d922bd2876/jetified-firebase-analytics-ktx-19.0.2/AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-common-ktx:20.0.0] /Users/thenewowner/.gradle/caches/transforms-2/files-2.1/e8a6d5678c300ebe32d40f2640508ebc/jetified-firebase-common-ktx-20.0.0/AndroidManifest.xml:6:5-8:41

@@ -13,12 +13,9 @@ class EmailAndPasswordScreen extends StatelessWidget {
     return Column(
       crossAxisAlignment: CrossAxisAlignment.start,
       children: [
+
         Text(
-          'My Email and',
-          style: Theme.of(context).textTheme.headline3,
-        ),
-        Text(
-          'Password is',
+          'Choose an Email and Password',
           style: Theme.of(context).textTheme.headline3,
         ),
         SizedBox(height: 25),

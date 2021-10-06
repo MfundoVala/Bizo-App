@@ -24,12 +24,9 @@ class _AgeScreenState extends State<AgeScreen> {
           child: Column(
             crossAxisAlignment: CrossAxisAlignment.start,
             children: [
+
               Text(
-                'My',
-                style: Theme.of(context).textTheme.headline3,
-              ),
-              Text(
-                'age is',
+                'How old are you?',
                 style: Theme.of(context).textTheme.headline3,
               ),
             ],
