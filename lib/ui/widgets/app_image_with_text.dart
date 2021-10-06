@@ -10,14 +10,11 @@ class AppIconTitle extends StatelessWidget {
         children: [
           SizedBox(
             child: Image.asset('images/bizologo.png'),
-            width: 32.0,
-            height: 32.0,
+            width: 220.0,
+            height: 220.0,
           ),
-          SizedBox(width: 5.0),
-          Text(
-            'Bizo',
-            style: Theme.of(context).textTheme.headline2,
-          )
+          SizedBox(width: 0.0),
+
         ],
       ),
     );

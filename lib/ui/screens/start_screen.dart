@@ -25,7 +25,7 @@ class StartScreen extends StatelessWidget {
                   child: Padding(
                     padding: EdgeInsets.symmetric(horizontal: 20),
                     child: Text(
-                      'Tinder, but like... for dogs.',
+                      'Bizo. Your record label in your pocket.\nSign yourself...',
                       textAlign: TextAlign.center,
                       style: Theme.of(context).textTheme.bodyText1,
                     ),

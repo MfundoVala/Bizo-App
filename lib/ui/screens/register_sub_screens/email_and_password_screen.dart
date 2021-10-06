@@ -16,7 +16,7 @@ class EmailAndPasswordScreen extends StatelessWidget {
 
         Text(
           'Choose an Email and Password',
-          style: Theme.of(context).textTheme.headline3,
+          style: Theme.of(context).textTheme.headline4,
         ),
         SizedBox(height: 25),
         BorderedTextField(

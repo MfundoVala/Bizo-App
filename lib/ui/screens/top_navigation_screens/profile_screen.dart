@@ -91,13 +91,14 @@ class _ProfileScreenState extends State<ProfileScreen> {
               iconData: Icons.edit,
               iconSize: 18,
               paddingReduce: 4,
+
             ),
           ],
         ),
         SizedBox(height: 5),
         Text(
-          user.bio.length > 0 ? user.bio : "No bio.",
-          style: Theme.of(context).textTheme.bodyText1,
+          user.bio.length > 0 ? user.bio : "Update your bio to let us know who you are.",
+          style: Theme.of(context).textTheme.bodyText2,
         ),
       ],
     );
