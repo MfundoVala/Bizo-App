@@ -1,3 +1,4 @@
+import 'package:bizo/ui/screens/home/Home.dart';
 import 'package:bizo/ui/screens/splash_screen.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
@@ -63,6 +64,7 @@ class MyApp extends StatelessWidget {
         initialRoute: SplashScreen.id,
         routes: {
           SplashScreen.id: (context) => SplashScreen(),
+          HomeScreen.id:(context) => HomeScreen(),
           StartScreen.id: (context) => StartScreen(),
           LoginScreen.id: (context) => LoginScreen(),
           RegisterScreen.id: (context) => RegisterScreen(),

@@ -1,3 +1,4 @@
+import 'package:bizo/ui/screens/home/Home.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
@@ -39,7 +40,7 @@ class _LoginScreenState extends State<LoginScreen> {
         .then((response) {
       if (response is Success<UserCredential>) {
         Navigator.of(context)
-            .pushNamedAndRemoveUntil(TopNavigationScreen.id, (route) => false);
+            .pushNamedAndRemoveUntil(HomeScreen.id, (route) => false);
       }
     });
     setState(() {

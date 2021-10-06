@@ -1,10 +1,10 @@
-#Wed Oct 06 17:23:39 SAST 2021
+#Wed Oct 06 18:51:02 SAST 2021
+base.2=/home/afrocode/Documents/Imbizo/Bizo-App/build/app/intermediates/dex/debug/mergeDexDebug/classes3.dex
 path.2=classes3.dex
+base.1=/home/afrocode/Documents/Imbizo/Bizo-App/build/app/intermediates/dex/debug/mergeDexDebug/classes2.dex
 path.1=classes2.dex
-path.0=classes.dex
+base.0=/home/afrocode/Documents/Imbizo/Bizo-App/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
 renamed.2=classes3.dex
 renamed.1=classes2.dex
 renamed.0=classes.dex
-base.2=/Users/thenewowner/AndroidStudioProjects/Bizo-App/build/app/intermediates/dex/debug/mergeDexDebug/classes3.dex
-base.1=/Users/thenewowner/AndroidStudioProjects/Bizo-App/build/app/intermediates/dex/debug/mergeDexDebug/classes2.dex
-base.0=/Users/thenewowner/AndroidStudioProjects/Bizo-App/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex

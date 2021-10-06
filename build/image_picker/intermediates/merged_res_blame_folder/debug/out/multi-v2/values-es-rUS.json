@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/thenewowner/AndroidStudioProjects/Bizo-App/build/image_picker/intermediates/incremental/mergeDebugResources/merged.dir/values-es-rUS/values-es-rUS.xml",
+            "outputFile": "/home/afrocode/Documents/Imbizo/Bizo-App/build/image_picker/intermediates/incremental/mergeDebugResources/merged.dir/values-es-rUS/values-es-rUS.xml",
             "map": [
                 {
-                    "source": "/Users/thenewowner/.gradle/caches/transforms-2/files-2.1/0b5a5b09e796e23878a3527a434a4a63/core-1.1.0/res/values-es-rUS/values-es-rUS.xml",
+                    "source": "/home/afrocode/.gradle/caches/transforms-2/files-2.1/0b5a5b09e796e23878a3527a434a4a63/core-1.1.0/res/values-es-rUS/values-es-rUS.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -16,10 +16,10 @@
             ]
         },
         {
-            "outputFile": "/Users/thenewowner/AndroidStudioProjects/Bizo-App/build/image_picker/intermediates/res/merged/debug/values-es-rUS/values-es-rUS.xml",
+            "outputFile": "/home/afrocode/Documents/Imbizo/Bizo-App/build/image_picker/intermediates/res/merged/debug/values-es-rUS/values-es-rUS.xml",
             "map": [
                 {
-                    "source": "/Users/thenewowner/.gradle/caches/transforms-2/files-2.1/0b5a5b09e796e23878a3527a434a4a63/core-1.1.0/res/values-es-rUS/values-es-rUS.xml",
+                    "source": "/home/afrocode/.gradle/caches/transforms-2/files-2.1/0b5a5b09e796e23878a3527a434a4a63/core-1.1.0/res/values-es-rUS/values-es-rUS.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
