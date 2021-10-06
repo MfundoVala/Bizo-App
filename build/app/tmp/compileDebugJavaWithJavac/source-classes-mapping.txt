@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/dothething/bizo/BuildConfig.java
+ com.dothething.bizo.BuildConfig

@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.bizo">
+    package="com.dothething.bizo">
    <application
         android:label="bizo"
         android:icon="@mipmap/ic_launcher">

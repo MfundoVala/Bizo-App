@@ -1,0 +1,4 @@
+#Wed Oct 06 10:44:13 SAST 2021
+base.0=/Users/thenewowner/AndroidStudioProjects/Bizo-App/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

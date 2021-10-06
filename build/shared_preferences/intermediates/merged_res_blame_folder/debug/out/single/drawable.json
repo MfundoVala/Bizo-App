@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/thenewowner/AndroidStudioProjects/Bizo-App/build/shared_preferences/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
+        "source": "/Users/thenewowner/.gradle/caches/transforms-2/files-2.1/0b5a5b09e796e23878a3527a434a4a63/core-1.1.0/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/thenewowner/AndroidStudioProjects/Bizo-App/build/shared_preferences/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
+        "source": "/Users/thenewowner/.gradle/caches/transforms-2/files-2.1/0b5a5b09e796e23878a3527a434a4a63/core-1.1.0/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/thenewowner/AndroidStudioProjects/Bizo-App/build/shared_preferences/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
+        "source": "/Users/thenewowner/.gradle/caches/transforms-2/files-2.1/0b5a5b09e796e23878a3527a434a4a63/core-1.1.0/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/thenewowner/AndroidStudioProjects/Bizo-App/build/shared_preferences/intermediates/res/merged/debug/drawable/notification_bg.xml",
+        "source": "/Users/thenewowner/.gradle/caches/transforms-2/files-2.1/0b5a5b09e796e23878a3527a434a4a63/core-1.1.0/res/drawable/notification_bg.xml"
+    }
+]

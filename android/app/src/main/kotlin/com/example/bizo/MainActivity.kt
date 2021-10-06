@@ -1,4 +1,4 @@
-package com.example.bizo
+package com.dothething.bizo
 
 import io.flutter.embedding.android.FlutterActivity
 
