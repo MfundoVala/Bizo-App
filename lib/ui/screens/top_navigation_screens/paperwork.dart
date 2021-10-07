@@ -70,7 +70,7 @@ class _PaperWork extends State<PaperWork> {
                 ),
               ),
             ),
-            card('images/capasso.jpeg', "Cappaso", context),
+            card('images/capasso.jpeg', "CAPASSO", context),
             card('images/samro.jpeg', "SAMRO", context),
             card('images/risa.jpeg', "RISA", context),
             card('images/sampra.jpeg', "SAMPRA", context)
@@ -111,7 +111,7 @@ class _PaperWork extends State<PaperWork> {
                         child: Text(
                           "Download",
                           style: TextStyle(
-                            color: Colors.black,
+                            color: Colors.blue,
                             fontSize: 12,
                           ),
                         ),
@@ -126,7 +126,7 @@ class _PaperWork extends State<PaperWork> {
                         child: Text(
                           "Upload",
                           style: TextStyle(
-                            color: Colors.black,
+                            color: Colors.blue,
                             fontSize: 12,
                           ),
                         ),
