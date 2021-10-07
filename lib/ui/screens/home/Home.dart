@@ -36,7 +36,7 @@ class _HomeScreen extends State<HomeScreen> {
           BottomNavigationBarItem(icon: Icon(Icons.person), title: Text('Profile')),
         ],
         currentIndex: selectedIndex,
-        fixedColor: Colors.amber,
+        fixedColor: Colors.blueGrey,
         unselectedItemColor: Colors.black,
         showUnselectedLabels:true,
 
