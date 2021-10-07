@@ -13,15 +13,12 @@ class _PaperWork extends State<PaperWork> {
  
   String _fileName;
   List<PlatformFile> _paths;
-
   bool _multiPick = true;
   FileType _pickingType = FileType.any;
 
 
   void _openFileExplorer() async {
-
     try {
-
       _paths = (await FilePicker.platform.pickFiles(
         type: _pickingType,
         allowMultiple: _multiPick,
@@ -41,7 +38,6 @@ class _PaperWork extends State<PaperWork> {
       print(_paths.first.extension);
     });
   }
-
 
 
 

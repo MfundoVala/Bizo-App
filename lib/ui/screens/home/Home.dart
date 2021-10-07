@@ -31,7 +31,7 @@ class _HomeScreen extends State<HomeScreen> {
       bottomNavigationBar: BottomNavigationBar(
         items: <BottomNavigationBarItem>[
           BottomNavigationBarItem(icon: Icon(Icons.home), title: Text('Home')),
-          BottomNavigationBarItem(icon: Icon(Icons.pages), title: Text('PaperWork')),
+          BottomNavigationBarItem(icon: Icon(Icons.file_copy), title: Text('PaperWork')),
           BottomNavigationBarItem(icon: Icon(Icons.notification_important), title: Text('Notifications')),  
           BottomNavigationBarItem(icon: Icon(Icons.person), title: Text('Profile')),
         ],
