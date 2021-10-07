@@ -10,6 +10,7 @@ MERGED from [:firebase_storage] /home/afrocode/Documents/Imbizo/Bizo-App/build/f
 MERGED from [:cloud_firestore] /home/afrocode/Documents/Imbizo/Bizo-App/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-15:12
 MERGED from [:firebase_core] /home/afrocode/Documents/Imbizo/Bizo-App/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-15:12
 MERGED from [:image_picker] /home/afrocode/Documents/Imbizo/Bizo-App/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-19:12
+MERGED from [:file_picker] /home/afrocode/Documents/Imbizo/Bizo-App/build/file_picker/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-17:12
 MERGED from [:flutter_plugin_android_lifecycle] /home/afrocode/Documents/Imbizo/Bizo-App/build/flutter_plugin_android_lifecycle/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
 MERGED from [:shared_preferences] /home/afrocode/Documents/Imbizo/Bizo-App/build/shared_preferences/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.multidex:multidex:2.0.1] /home/afrocode/.gradle/caches/transforms-2/files-2.1/3749f85aa30402a9dec7cbbd9b409b76/multidex-2.0.1/AndroidManifest.xml:17:1-22:12
@@ -208,6 +209,8 @@ MERGED from [:firebase_core] /home/afrocode/Documents/Imbizo/Bizo-App/build/fire
 MERGED from [:firebase_core] /home/afrocode/Documents/Imbizo/Bizo-App/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
 MERGED from [:image_picker] /home/afrocode/Documents/Imbizo/Bizo-App/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
 MERGED from [:image_picker] /home/afrocode/Documents/Imbizo/Bizo-App/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:file_picker] /home/afrocode/Documents/Imbizo/Bizo-App/build/file_picker/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:file_picker] /home/afrocode/Documents/Imbizo/Bizo-App/build/file_picker/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
 MERGED from [:flutter_plugin_android_lifecycle] /home/afrocode/Documents/Imbizo/Bizo-App/build/flutter_plugin_android_lifecycle/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
 MERGED from [:flutter_plugin_android_lifecycle] /home/afrocode/Documents/Imbizo/Bizo-App/build/flutter_plugin_android_lifecycle/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
 MERGED from [:shared_preferences] /home/afrocode/Documents/Imbizo/Bizo-App/build/shared_preferences/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
@@ -426,6 +429,22 @@ ADDED from [:image_picker] /home/afrocode/Documents/Imbizo/Bizo-App/build/image_
 		ADDED from [:image_picker] /home/afrocode/Documents/Imbizo/Bizo-App/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:15:17-72
 	android:name
 		ADDED from [:image_picker] /home/afrocode/Documents/Imbizo/Bizo-App/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:14:17-67
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from [:file_picker] /home/afrocode/Documents/Imbizo/Bizo-App/build/file_picker/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from [:file_picker] /home/afrocode/Documents/Imbizo/Bizo-App/build/file_picker/intermediates/library_manifest/debug/AndroidManifest.xml:7:22-77
+queries
+ADDED from [:file_picker] /home/afrocode/Documents/Imbizo/Bizo-App/build/file_picker/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-15:15
+intent#action:name:android.intent.action.GET_CONTENT+data:mimeType:*/*
+ADDED from [:file_picker] /home/afrocode/Documents/Imbizo/Bizo-App/build/file_picker/intermediates/library_manifest/debug/AndroidManifest.xml:10:9-14:18
+action#android.intent.action.GET_CONTENT
+ADDED from [:file_picker] /home/afrocode/Documents/Imbizo/Bizo-App/build/file_picker/intermediates/library_manifest/debug/AndroidManifest.xml:11:13-72
+	android:name
+		ADDED from [:file_picker] /home/afrocode/Documents/Imbizo/Bizo-App/build/file_picker/intermediates/library_manifest/debug/AndroidManifest.xml:11:21-69
+data
+ADDED from [:file_picker] /home/afrocode/Documents/Imbizo/Bizo-App/build/file_picker/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-44
+	android:mimeType
+		ADDED from [:file_picker] /home/afrocode/Documents/Imbizo/Bizo-App/build/file_picker/intermediates/library_manifest/debug/AndroidManifest.xml:13:19-41
 meta-data#com.google.firebase.components:com.google.firebase.analytics.ktx.FirebaseAnalyticsKtxRegistrar
 ADDED from [com.google.firebase:firebase-analytics-ktx:19.0.2] /home/afrocode/.gradle/caches/transforms-2/files-2.1/d8ce1286e21eff0b9d9fd5d922bd2876/jetified-firebase-analytics-ktx-19.0.2/AndroidManifest.xml:11:13-13:85
 	android:value
@@ -484,14 +503,6 @@ category#android.intent.category.BROWSABLE
 ADDED from [com.google.firebase:firebase-auth:21.0.1] /home/afrocode/.gradle/caches/transforms-2/files-2.1/20c92a9eacc34f0af3135437a9ce4824/jetified-firebase-auth-21.0.1/AndroidManifest.xml:37:17-78
 	android:name
 		ADDED from [com.google.firebase:firebase-auth:21.0.1] /home/afrocode/.gradle/caches/transforms-2/files-2.1/20c92a9eacc34f0af3135437a9ce4824/jetified-firebase-auth-21.0.1/AndroidManifest.xml:37:27-75
-data
-ADDED from [com.google.firebase:firebase-auth:21.0.1] /home/afrocode/.gradle/caches/transforms-2/files-2.1/20c92a9eacc34f0af3135437a9ce4824/jetified-firebase-auth-21.0.1/AndroidManifest.xml:39:17-42:51
-	android:path
-		ADDED from [com.google.firebase:firebase-auth:21.0.1] /home/afrocode/.gradle/caches/transforms-2/files-2.1/20c92a9eacc34f0af3135437a9ce4824/jetified-firebase-auth-21.0.1/AndroidManifest.xml:41:21-37
-	android:host
-		ADDED from [com.google.firebase:firebase-auth:21.0.1] /home/afrocode/.gradle/caches/transforms-2/files-2.1/20c92a9eacc34f0af3135437a9ce4824/jetified-firebase-auth-21.0.1/AndroidManifest.xml:40:21-49
-	android:scheme
-		ADDED from [com.google.firebase:firebase-auth:21.0.1] /home/afrocode/.gradle/caches/transforms-2/files-2.1/20c92a9eacc34f0af3135437a9ce4824/jetified-firebase-auth-21.0.1/AndroidManifest.xml:42:21-48
 activity#com.google.firebase.auth.internal.RecaptchaActivity
 ADDED from [com.google.firebase:firebase-auth:21.0.1] /home/afrocode/.gradle/caches/transforms-2/files-2.1/20c92a9eacc34f0af3135437a9ce4824/jetified-firebase-auth-21.0.1/AndroidManifest.xml:45:9-62:20
 	android:excludeFromRecents

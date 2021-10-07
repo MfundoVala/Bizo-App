@@ -3,6 +3,8 @@ import 'package:bizo/ui/screens/top_navigation_screens/paperwork.dart';
 import 'package:bizo/ui/screens/top_navigation_screens/profile_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
+import 'package:file_picker/file_picker.dart';
+import 'package:flutter/services.dart';
 
 class HomeScreen extends StatefulWidget {
   static const String id = 'home';
@@ -22,9 +24,7 @@ class _HomeScreen extends State<HomeScreen> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(
-        // title: Text('Beer App'),
-      ),
+
       body: Center(
         child: widgetOptions.elementAt(selectedIndex),
       ),
@@ -51,4 +51,6 @@ class _HomeScreen extends State<HomeScreen> {
     });
   }
 }
+
+
 

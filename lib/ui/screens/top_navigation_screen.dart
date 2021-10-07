@@ -1,3 +1,4 @@
+import 'package:bizo/ui/screens/home/Home.dart';
 import 'package:flutter/material.dart';
 import 'package:bizo/data/model/top_navigation_item.dart';
 import 'package:bizo/ui/screens/top_navigation_screens/profile_screen.dart';
@@ -8,7 +9,7 @@ class TopNavigationScreen extends StatelessWidget {
   static const String id = 'top_navigation_screen';
   final List<TopNavigationItem> navigationItems = [
     TopNavigationItem(
-      screen: ProfileScreen(),
+      screen: HomeScreen(),
       iconData: Icons.person,
     ),
     /*TopNavigationItem(
